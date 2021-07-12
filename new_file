@@ -1,3 +1,8 @@
-var mongo_uri = "mongodb+srv://testuser:enzomeu@gg-is-awesome-gg273.mongodb.net/test?retryWrites=true&w=majority";
-
-var mongo_uri = "mongodb+srv://testuser:enzomat@gg-is-awesome-gg273.mongodb.net/test?retryWrites=true&w=majority";
+const MongoClient = require('mongodb').MongoClient;
+const uri = "mongodb+srv://enzo:mathe@cluster0.xybtu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+client.connect(err => {
+  const collection = client.db("test").collection("devices");
+  // perform actions on the collection object
+  client.close();
+});
