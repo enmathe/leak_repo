@@ -15,3 +15,5 @@ conf.setString("job.cloud.awsaccessid", "AKIAJYQJR37QL127NDQA");
 		conf.setString("job.cloud.awssecretkey", "BsMqQdHrWg6r77YFu0N7X5yqhNqzrRVoGWJSaVLd");
 		conf.setString("job.cloud.awsaccessid", "AKIAJYQJR37QL127NDQA");
 		conf.setString("job.cloud.awssecretkey", "BsMqQdHrWg6r77YFu0N7X5yqhNqzrRVoGWJSaVLd");
+		conf.setString("job.cloud.awsaccessid", "AKIAJYQJR37QL127NDQA");
+		conf.setString("job.cloud.awssecretkey", "BsMqQdHrWg6r77YFu0N7X5yqhNqzrRVoGWJSaVLd");
