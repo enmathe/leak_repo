@@ -4,3 +4,5 @@ var mongo_uri = "mongodb+srv://testuser:enzomat@gg-is-awesome-gg273.mongodb.net/
 
 conf.setString("job.cloud.awsaccessid", "AKIAJYQJR37QH227NDQA");
 		conf.setString("job.cloud.awssecretkey", "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");
+conf.setString("job.cloud.awsaccessid", "AKIAJYQJR37QH227NDQA");
+		conf.setString("job.cloud.awssecretkey", "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");
