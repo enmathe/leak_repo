@@ -4,3 +4,5 @@ test.py
 5fe3a104-685f-469d-945d-2f7e27b63ffc5fe3a104-685f-469d-945d-2f7e27b63ffc
 
 5fe3a104-685f-469d-945d-2f7e27b63ffc
+client_id=AKIAQFPFBIL5PGSBFWO9
+client_secret=WyiT+0/XBoVKm8qVB5l7WR2uSutH9rauSS2gaMU5
